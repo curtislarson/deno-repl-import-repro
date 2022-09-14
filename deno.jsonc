@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "repl": "deno repl --unstable --no-check --eval-file=./dir1/mod1.ts",
+    "repl:quack": "deno repl --unstable --no-check --eval='await import(\"./dir1/mod1.ts\")'"
+  }
+}

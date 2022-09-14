@@ -1,0 +1,6 @@
+{
+  "deno.enablePaths": [
+    "./dir1",
+    "./dir2"
+  ]
+}
